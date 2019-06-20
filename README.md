@@ -1,8 +1,8 @@
-Html Hello World Demo
-=====================
+Css Html Table Style Demo
+=========================
+
+Use 'css' to style html table. 
 
 ```
 open index.html
 ```
-
-You will see `Hello, World!` on page.
